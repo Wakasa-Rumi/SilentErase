@@ -4,6 +4,9 @@
 visit https://aistudio.baidu.com/datasetdetail/222219 to download WikiArt.zip
 images of different artist should be placed under ./dataset
 
+Our trained model for ivan-generalic style is at https://drive.google.com/file/d/1Us_iFINR4V-KpkEx_0-b_6M-nU9Oyo0E/view?usp=drive_link
+Please download the model and place it at ./exps_attn1/ivan-generalic/unet/
+
 # Image to Prompt
 ## Setup
 Create and activate a Python virtual environment
